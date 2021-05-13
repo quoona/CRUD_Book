@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="QuanLySachContext">
+  <DataContextMoniker Name="/QuanLySachContextDataContext" />
+  <nestedChildShapes>
+    <classShape Id="b91f98cc-6d9b-4f7f-a62e-a9e41950a0c3" absoluteBounds="5.5, 1.375, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/QuanLySachContextDataContext/Book" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f583699f-3dd1-4448-972d-0869caded6ab" absoluteBounds="5.515, 1.835, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
